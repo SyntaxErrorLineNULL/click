@@ -1,1 +1,1 @@
-# clickhouse-analitic
+# click
